@@ -92,3 +92,8 @@ GTAGS
 *.orig
 *~
 \#*#
+
+/fip/_tmp/bl2.n.bin.sig
+/fip/_tmp/bl30_new.bin.enc
+/fip/_tmp/bl31.img.enc
+/fip/_tmp/bl33.bin.enc
